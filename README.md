@@ -1,6 +1,3 @@
-readme: |
----
-
 # 🎯 Bspwm-Dot
 
 *A minimalist and stylish tiling window manager setup for [bspwm](https://github.com/baskerville/bspwm) on Arch Linux.*
