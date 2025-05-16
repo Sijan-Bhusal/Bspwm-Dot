@@ -1,3 +1,4 @@
+readme: |
 ---
 
 # 🎯 Bspwm-Dot
